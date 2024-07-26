@@ -38,6 +38,7 @@
    ```
 3. **Install Dependencies:**
    ```bash
+
    pip install -r requirements.txt
    ```
 4. **Configure the Bot:**
@@ -47,3 +48,6 @@
    ```bash
    python bot.py
    ```
+
+#### Screemshot
+![Bot](https://github.com/user-attachments/assets/ae073ccd-04d6-4d89-8189-35a8343916a8)
